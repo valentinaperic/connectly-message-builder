@@ -1,0 +1,32 @@
+:root {
+    font-size: 10px;
+}
+
+html {
+    font-family: $roboto-regular;
+}
+
+h1 {
+    font-size: 2.4rem; 
+    font-weight: 400;
+}
+
+h2 {
+    margin-top: 0px;
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+a {
+    text-decoration: none; 
+    font-size: 1.2rem;
+    color: $primary-blue;
+}
+
+.close-x {
+    cursor: pointer;
+}
